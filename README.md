@@ -6,5 +6,17 @@ Query Editing Tool: "Mircosoft Excel and Microsoft Power BI:
 Visualization Tool: "Microsoft Power BI"
 DATA VISUALISATION
 1. Entity Relationship Diagram
-![](images/1.%20Overview.png)
+![](Visualization%20(Screenshots)/ER%20Diagram.jpg)
+
+3. HR Analytics Overview
+![](Visualization%20(Screenshots)/1.%20Overview.png)
+
+5. Demographics of the Company
+![](Visualization%20(Screenshots)/2.%20Demographics.png)
+
+7. Perfomance Tracker
+![](Visualization%20(Screenshots)/3.%20Performance%20Tracker.png)
+
+9. Attrition
+![](Visualization%20(Screenshots)/4.%20HR%20Analytics%20Project%20Attrition.png)
    
